@@ -127,10 +127,10 @@ You can easily get started by modifying _config.yml
 
 ```
 # Site settings
-title: '廖柯宇的独立博客' # 你的博客网站标题
+title: '刘琨的独立博客' # 你的博客网站标题
 description: '很高兴能在这里与你分享我对技术和生活的思考。' # 站点描述
-keyword: '廖柯宇, 廖柯宇的独立博客, 前端, 设计' # 网站关键词
-url: 'http://liaokeyu.com' # 站点url
+keyword: '刘琨, 刘琨的独立博客, 安卓, 设计' # 网站关键词
+url: 'http://liukun.lk' # 站点url
 baseurl: ''
 
 # Build settings
@@ -152,7 +152,7 @@ subtitle: '或许是最漂亮的Jekyll主题'
 date: 2017-04-18
 categories: 技术
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
-tags: jekyll 前端开发 设计
+tags: jekyll 移动开发 大前端 设计
 ---
 ```
 
